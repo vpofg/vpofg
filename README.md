@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### About Me
+I am a $$3^{rd}$$ year Computer Science student on AGH University of Science and Technology in Kraków. 
+
+### Uni
+🔭 I’m currently working on a group project, allowing users to reserve private parking spcaes in the city center. 
+
+
 <!--
 **vpofg/vpofg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
