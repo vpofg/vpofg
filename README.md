@@ -15,6 +15,6 @@ My name is Jan Gwara and I am a Computer Science student enroled in AGH universi
 #### Prywatne Akademickie Liceum Ogólnokształcące oddział IB w Krakowie 
 I have completed a two year International Baccalaureate diploma program (with a pre-diploma year). Partaking this course gave me an opportunity to pursue my education entirely in English for two years and take subjects normally not available in Poland like economics, business and computer science. 
 
-### University
+### University (2022 - Current)
 #### University of Science and Technology (AGH-UST)
 I am currently pursuing an engineering degree in Computer Science. I have chosen this particular degree because I wanted to discover all corners of this broad subject. Thanks to my choice I am able to learn bits of networking, electronics, programming and even project management.
